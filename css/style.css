@@ -1,0 +1,45 @@
+html, body{
+  background-color: lightgrey;
+}
+h1{
+  color:purple;
+  font-family: "indie flower";
+}
+h2{
+   color:purple;
+  font-family: "prompt";
+}
+.calcOutPut{
+  height: 75px;
+  width:250px;
+  background-color:white;
+  border-top-right-radius: 2em;
+  border-top-left-radius: 2em;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top:20px;
+  padding-top:20px;
+}#calculator{
+  background-color:silver;
+  height: 225px;
+  width:250px;
+  margin-right:auto;
+  margin-left:auto;
+  padding-bottom:20px;
+  padding-top:20px;
+  border-bottom-right-radius: 2em;
+  border-bottom-left-radius: 2em;
+}
+#steps{
+  padding-left:50px;
+  font-size:35px;
+}
+a{
+  margin:3px;
+  width: 2.5vw;
+  height: 2.5vw;
+  
+}
+.bigButton{
+  width:80px;
+}
