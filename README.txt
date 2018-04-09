@@ -1,1 +1,1 @@
-Project deploy https://calculator-ivi.herokuapp.com/
+Project deploy https://ivi-calculator.herokuapp.com/
